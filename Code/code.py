@@ -1,5 +1,6 @@
 import time
 
+
 student_name = input("Enter the Student's name to access their details on their points: ")
 
 names = ["Adam", "Billy", "Colin"]
